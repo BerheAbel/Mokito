@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-19T06:34:43Z" name="Default suite" finished-at="2021-11-19T06:35:13Z" duration-ms="29679">
+    <groups>
+    </groups>
+    <test started-at="2021-11-19T06:34:43Z" name="Default test" finished-at="2021-11-19T06:35:13Z" duration-ms="29679">
+      <class name="ccccc.AAAAAA">
+        <test-method is-config="true" signature="resdConfig()[pri:0, instance:ccccc.AAAAAA@1bae316d]" started-at="2021-11-19T06:34:43Z" name="resdConfig" finished-at="2021-11-19T06:34:43Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resdConfig -->
+        <test-method is-config="true" signature="test()[pri:0, instance:ccccc.AAAAAA@1bae316d]" started-at="2021-11-19T06:34:43Z" name="test" finished-at="2021-11-19T06:34:48Z" duration-ms="5173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="First_Login_Test()[pri:1, instance:ccccc.AAAAAA@1bae316d]" started-at="2021-11-19T06:34:48Z" name="First_Login_Test" finished-at="2021-11-19T06:34:51Z" duration-ms="2715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- First_Login_Test -->
+        <test-method is-config="true" signature="test()[pri:0, instance:ccccc.AAAAAA@1bae316d]" started-at="2021-11-19T06:34:51Z" name="test" finished-at="2021-11-19T06:34:56Z" duration-ms="5163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="AddInfo()[pri:2, instance:ccccc.AAAAAA@1bae316d]" started-at="2021-11-19T06:34:56Z" name="AddInfo" finished-at="2021-11-19T06:35:02Z" duration-ms="5490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddInfo -->
+        <test-method is-config="true" signature="test()[pri:0, instance:ccccc.AAAAAA@1bae316d]" started-at="2021-11-19T06:35:02Z" name="test" finished-at="2021-11-19T06:35:07Z" duration-ms="5125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="CustomerList()[pri:3, instance:ccccc.AAAAAA@1bae316d]" started-at="2021-11-19T06:35:07Z" name="CustomerList" finished-at="2021-11-19T06:35:12Z" duration-ms="5079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerList -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:ccccc.AAAAAA@1bae316d]" started-at="2021-11-19T06:35:12Z" name="TearDown" finished-at="2021-11-19T06:35:13Z" duration-ms="888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- ccccc.AAAAAA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
